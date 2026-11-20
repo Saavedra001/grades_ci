@@ -1,0 +1,4 @@
+# requirements.txt
+pytest
+# for the HTML coverage report (step 7)
+pytest-cov

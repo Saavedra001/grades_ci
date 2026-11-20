@@ -1,0 +1,7 @@
+# Python and pytest leftovers
+__pycache__/
+.pytest_cache/
+
+# coverage output (made by: pytest --cov=grades --cov-report=html)
+.coverage
+htmlcov/

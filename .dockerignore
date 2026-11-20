@@ -1,0 +1,7 @@
+# keep the image small: only the code, tests and requirements go in
+.git
+.github
+__pycache__
+.pytest_cache
+.coverage
+htmlcov
